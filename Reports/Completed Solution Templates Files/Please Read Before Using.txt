@@ -1,0 +1,14 @@
+When using the completed template files you will be prompted to provide 3 parameter values which reference the location where you saved your files. 
+
+The default location for these files (C:\DIAD\Data) are the following but if you saved your files somewhere different you will need to provide the specific location of your saved files.
+
+Sales File Location
+C:\DIAD\Data\USSales\Sales.csv
+
+bi_dimensions File Location
+C:\DIAD\Data\USSales\bi_dimensions.xlsx
+
+International Sales Folder Location
+C:\DIAD\Data\InternationalSales
+
+Do not modify the Parameter1
